@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Tom
+- 👀 I’m interested in coding, adventure and gaming.
+- 🌱 I’m currently learning python script and game design.
+- 📫 If you need to contact me I will have given you my email already.
